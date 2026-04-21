@@ -62,12 +62,10 @@ The main goal is to showcase practical skills in **Linux system administration, 
     │   (System Metrics)         │
     └────────────────────────────┘
 ```
-```bash
-
----
 
 ## Technologies Used
 
+```bash
 - 🐳 Docker & Docker Compose  
 - 🌐 Nginx  
 - 🗄️ MySQL  
