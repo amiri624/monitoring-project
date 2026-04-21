@@ -78,6 +78,7 @@ The main goal is to showcase practical skills in **Linux system administration, 
 ## Project Structure
 
 monitoring-project/
+
 ├── docker-compose.yml
 
 ├── prometheus.yml
