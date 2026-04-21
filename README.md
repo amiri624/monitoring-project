@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Visualization-Grafana-yellow">
 </p>
 
----
 
 ##  Overview
 
@@ -80,7 +79,9 @@ The main goal is to showcase practical skills in **Linux system administration, 
 
 monitoring-project/
 ├── docker-compose.yml
+
 ├── prometheus.yml
+
 ├── README.md
 
 ---
