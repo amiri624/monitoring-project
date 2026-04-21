@@ -93,6 +93,8 @@ monitoring-project/
 
 ```bash
 git clone git@github.com:amiri624/monitoring-project.git
+```
+```bash
 cd monitoring-project
 ```
 
