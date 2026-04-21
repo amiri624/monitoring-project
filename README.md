@@ -92,7 +92,7 @@ monitoring-project/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:amiri624/monitoring-project.git
 cd monitoring-project
 ```
 
