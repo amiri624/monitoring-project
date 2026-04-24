@@ -9,10 +9,9 @@
   <img src="https://img.shields.io/badge/Monitoring-Prometheus-red">
   <img src="https://img.shields.io/badge/Visualization-Grafana-yellow">
 </p>
-
-
+```
 ##  Overview
-
+``bash
 This project demonstrates the design and implementation of a **containerized Linux infrastructure** using Docker and Docker Compose.
 
 It simulates a real-world environment including:
