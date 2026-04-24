@@ -10,8 +10,8 @@
 </p>
 ```
 ##  Overview
-
 ``bash
+
 This project demonstrates the design and implementation of a **containerized Linux infrastructure** using Docker and Docker Compose.
 
 It simulates a real-world environment including:
@@ -20,7 +20,6 @@ It simulates a real-world environment including:
 - Monitoring Stack
 
 The main goal is to showcase practical skills in **Linux system administration, containerization, and monitoring**.
-
 ```
 ---
 
