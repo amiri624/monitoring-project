@@ -1,8 +1,7 @@
 # Professional README (DevOps + Monitoring Project)
 
-```bash
 #  Containerized Linux Infrastructure with Monitoring
-
+```bash
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Ubuntu-orange">
   <img src="https://img.shields.io/badge/Docker-Container-blue">
@@ -11,6 +10,7 @@
 </p>
 ```
 ##  Overview
+
 ``bash
 This project demonstrates the design and implementation of a **containerized Linux infrastructure** using Docker and Docker Compose.
 
