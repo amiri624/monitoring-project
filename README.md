@@ -11,7 +11,6 @@
 ```
 ##  Overview
 ``bash
-
 This project demonstrates the design and implementation of a **containerized Linux infrastructure** using Docker and Docker Compose.
 
 It simulates a real-world environment including:
