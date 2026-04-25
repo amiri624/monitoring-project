@@ -57,7 +57,7 @@ The main goal is to showcase practical skills in **Linux system administration, 
     │   (System Metrics)         │
     └────────────────────────────┘
 ```
-
+--- 
 ## Technologies Used
 
 ```bash
