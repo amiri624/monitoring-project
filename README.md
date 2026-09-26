@@ -1,6 +1,5 @@
 
 
-
 # Professional README (DevOps + Monitoring Project)
 
 #  Containerized Linux Infrastructure with Monitoring
